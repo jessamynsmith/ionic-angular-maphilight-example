@@ -1,9 +1,11 @@
-ionic-maphilight-example
-========================
+ionic-angular-maphilight-example
+================================
 
 Example of using [Angular Maphilight](http://abdallamohamed.github.io/Angular-Maphilight) in an Ionic app
 
-View the running app on [Heroku](https://ionic-maphilight-example.herokuapp.com/)
+View the running app on [Heroku](https://ionic-angular-maphilight-example.herokuapp.com/)
+
+Note: this works in the browser, but does not necessarily work as a mobile app. To get maphilight working in an Ionic mobile app, I had to make a [fork](https://github.com/jessamynsmith/maphilight/) of jQuery maphilight and use it directly in Ionic ([example here] (https://github.com/jessamynsmith/ionic-maphilight-example)).
 
 Development
 -----------

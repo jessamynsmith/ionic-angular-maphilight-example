@@ -1,5 +1,5 @@
 {
-  "name": "ionic-map-hilight-example",
+  "name": "ionic-angular-maphilight-example",
   "private": "true",
   "devDependencies": {
     "ionic": "ionic-team/ionic-bower#1.3.4"
